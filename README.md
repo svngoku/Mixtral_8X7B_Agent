@@ -2,7 +2,7 @@
 
 The goal of this repo is to show how to deploy an AI agent using the new Open source model `Mistral 8X7B` on an instance (`AWS`, `RunPod`).
 
-## 1. Create an instance
+## 1. Create an instance (RUNPOD)
 
 The instance must have the following characteristics:
 
